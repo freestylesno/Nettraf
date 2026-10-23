@@ -40,8 +40,8 @@ sudo apt install -y bridge-utils python3
 ### 1. Clone the repository  
 
 ```bash
-git clone https://github.com/<your-username>/NetworkSim.git
-cd NetworkSim
+git clone https://github.com/freestylesno/Nettraf.git  
+cd Nettraf
 ```
 
 ### 2. Setup the bridge  
